@@ -1,2 +1,14 @@
 P1.zip
 P1/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+.ds_store
+.DS_Store
+.idea/
+.vscode/
+*.log
