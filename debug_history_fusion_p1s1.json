@@ -1,0 +1,86 @@
+{
+  "train": [
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.14191176470588235,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    }
+  ],
+  "val": [
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    },
+    {
+      "loss": NaN,
+      "pose_loss": NaN,
+      "depth_loss": NaN,
+      "pck": 0.0,
+      "oks": NaN,
+      "depth_mae": NaN
+    }
+  ]
+}
