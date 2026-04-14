@@ -1,86 +1,86 @@
 {
   "train": [
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.14191176470588235,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.011938032587058842,
+      "pose_loss": 0.011938032587058842,
+      "depth_loss": 0.0,
+      "pck": 74.49485294117648,
+      "oks": 0.09481182212460026,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.006331770307384432,
+      "pose_loss": 0.006331770307384432,
+      "depth_loss": 0.0,
+      "pck": 86.8345588235294,
+      "oks": 0.14964672792015624,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.005531820353120566,
+      "pose_loss": 0.005531820353120566,
+      "depth_loss": 0.0,
+      "pck": 89.32352941176471,
+      "oks": 0.1772345884208802,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.005200029388535768,
+      "pose_loss": 0.005200029388535768,
+      "depth_loss": 0.0,
+      "pck": 90.35,
+      "oks": 0.19071206580879063,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.00490634509595111,
+      "pose_loss": 0.00490634509595111,
+      "depth_loss": 0.0,
+      "pck": 91.00955882352942,
+      "oks": 0.20310210905065482,
+      "depth_mae": null
     }
   ],
   "val": [
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.003341955916766892,
+      "pose_loss": 0.003341955916766892,
+      "depth_loss": 0.0,
+      "pck": 91.75294117647059,
+      "oks": 0.19740950040920907,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.0028305733167144354,
+      "pose_loss": 0.0028305733167144354,
+      "depth_loss": 0.0,
+      "pck": 93.2764705882353,
+      "oks": 0.22153674260111406,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.0027941239777646842,
+      "pose_loss": 0.0027941239777646842,
+      "depth_loss": 0.0,
+      "pck": 93.42941176470588,
+      "oks": 0.23936348585359082,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.0026261648308718577,
+      "pose_loss": 0.0026261648308718577,
+      "depth_loss": 0.0,
+      "pck": 94.30588235294118,
+      "oks": 0.22278041898423334,
+      "depth_mae": null
     },
     {
-      "loss": NaN,
-      "pose_loss": NaN,
-      "depth_loss": NaN,
-      "pck": 0.0,
-      "oks": NaN,
-      "depth_mae": NaN
+      "loss": 0.0025065346135306754,
+      "pose_loss": 0.0025065346135306754,
+      "depth_loss": 0.0,
+      "pck": 94.30588235294118,
+      "oks": 0.24663560274242138,
+      "depth_mae": null
     }
   ]
 }
